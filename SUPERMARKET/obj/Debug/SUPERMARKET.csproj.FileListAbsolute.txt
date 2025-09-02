@@ -1,0 +1,8 @@
+C:\Users\Eman\source\repos\SUPERMARKET\SUPERMARKET\bin\Debug\SUPERMARKET.exe.config
+C:\Users\Eman\source\repos\SUPERMARKET\SUPERMARKET\bin\Debug\SUPERMARKET.exe
+C:\Users\Eman\source\repos\SUPERMARKET\SUPERMARKET\bin\Debug\SUPERMARKET.pdb
+C:\Users\Eman\source\repos\SUPERMARKET\SUPERMARKET\obj\Debug\SUPERMARKET.csproj.AssemblyReference.cache
+C:\Users\Eman\source\repos\SUPERMARKET\SUPERMARKET\obj\Debug\SUPERMARKET.csproj.CoreCompileInputs.cache
+C:\Users\Eman\source\repos\SUPERMARKET\SUPERMARKET\obj\Debug\SUPERMARKET.exe
+C:\Users\Eman\source\repos\SUPERMARKET\SUPERMARKET\obj\Debug\SUPERMARKET.pdb
+C:\Users\Eman\source\repos\SUPERMARKET\SUPERMARKET\obj\Debug\SUPERMARKET.exe.config
